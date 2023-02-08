@@ -1,1 +1,1 @@
-# sql-connectivity-wit-python
+# sql-and-python-connectivity
